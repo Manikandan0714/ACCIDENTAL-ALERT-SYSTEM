@@ -36,8 +36,6 @@ This project demonstrates **hardware + software integration** for real-time safe
 - Git  
 
 
-
-```markdown
-![Workflow](workflow.png)
+---
 
 
