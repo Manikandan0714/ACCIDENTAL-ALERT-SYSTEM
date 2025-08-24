@@ -31,9 +31,9 @@ This project demonstrates **hardware + software integration** for real-time safe
 - Communication Module (GSM / WiFi for alerts)  
 
 ### 🔹 Software Requirements  
-- Python (for data processing)  
+- Embedded C (for data processing)  
 - Arduino IDE / Microcontroller Firmware  
-- Git, VS Code  
+- Git  
 
 
 
