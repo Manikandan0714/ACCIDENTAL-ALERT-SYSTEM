@@ -36,11 +36,7 @@ This project demonstrates **hardware + software integration** for real-time safe
 - Arduino IDE / Microcontroller Firmware  
 - Git, VS Code  
 
----
 
-## 📷 Project Workflow  
-
-> Add a diagram or image here showing **sensor → microcontroller → alert system**. Example:  
 
 ```markdown
 ![Workflow](workflow.png)
