@@ -16,7 +16,6 @@ This project demonstrates **hardware + software integration** for real-time safe
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-008080?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Microcontroller-Arduino-blue?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Sensors-FF6F00?style=for-the-badge&logo=sonarqube&logoColor=white" />
