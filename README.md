@@ -13,7 +13,7 @@ This project demonstrates **hardware + software integration** for real-time safe
 ---
 
 ## ✨ Features
-- ✅ Detects accidents using IoT sensors (impact/tilt/vibration sensors)  
+- ✅ Detects accidents using IoT sensors (Gyroscopic Sensor,Smoke Sensor)  
 - ✅ Triggers **real-time SMS/alert notifications** 📲  
 - ✅ Seamlessly integrates **hardware (sensors + microcontroller) with software logic** ⚡  
 - ✅ Reduces **response time** in critical situations ⛑️  
@@ -52,21 +52,28 @@ This project demonstrates **hardware + software integration** for real-time safe
 4️⃣ GSM/WiFi module sends alert message to emergency contacts 📩
 5️⃣ (Optional) Logs data to IoT dashboard for tracking 📊
 
-📊 Applications
-🏍️ Motorcycle accident detection
-🚗 Vehicle emergency alert system
-⛑️ Faster response in road accidents
-🏥 Integration with emergency medical services
+## 📊 Applications
+- 🏍️ Motorcycle accident detection  
+- 🚗 Vehicle emergency alert system  
+- ⛑️ Faster response in road accidents  
+- 🏥 Integration with emergency medical services  
 
-🤝 Contributing
-Contributions are welcome! 🎉
-If you’d like to improve this project, feel free to fork the repo, make enhancements, and create a pull request.
+---
 
-📜 License
-📌 This project is licensed under the MIT License – free to use, modify, and distribute.
+## 🤝 Contributing
+Contributions are welcome! 🎉  
+If you’d like to improve this project, feel free to **fork the repo**, make enhancements, and create a **pull request**.  
 
-###💡 Future Enhancements
-📡 Cloud IoT dashboard for live tracking
-📱 Mobile app integration (Android/iOS)
-🤖 AI accident prediction system
-🚓 Direct police & hospital alert systems
+---
+
+## 📜 License
+📌 This project is licensed under the **MIT License** – free to use, modify, and distribute.  
+
+---
+
+## 💡 Future Enhancements
+- 📡 Cloud IoT dashboard for live tracking  
+- 📱 Mobile app integration (Android/iOS)  
+- 🤖 AI accident prediction system  
+- 🚓 Direct police & hospital alert systems  
+
