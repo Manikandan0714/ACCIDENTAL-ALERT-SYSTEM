@@ -1,7 +1,6 @@
 # 🚦 Accident Alert System (IoT Project)
 
-[![GitHub stars](https://img.shields.io/github/stars/Manikandan0714/ACCIDENTAL-ALERT-SYSTEM?style=for-the-badge)](https://github.com/Manikandan0714/ACCIDENTAL-ALERT-SYSTEM/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Manikandan0714/ACCIDENTAL-ALERT-SYSTEM?style=for-the-badge)](https://github.com/Manikandan0714/ACCIDENTAL-ALERT-SYSTEM/network/members)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 ![Arduino](https://img.shields.io/badge/Arduino-IDE-blue?style=for-the-badge&logo=arduino)
 ![IoT](https://img.shields.io/badge/IoT-Project-orange?style=for-the-badge&logo=internet-of-things)
@@ -25,8 +24,8 @@ This project demonstrates **hardware + software integration** for real-time safe
 ## 🛠️ Tech Stack
 | Layer        | Tools / Components |
 |--------------|--------------------|
-| **Hardware** | Arduino / ESP32 / Raspberry Pi, Tilt Sensor, Vibration Sensor, GSM Module, GPS Module |
-| **Software** | Arduino IDE, Embedded C / MicroPython |
+| **Hardware** | Arduino UNO /Gyroscopic Sensor,Smoke Sensor/Bluetooth Module, GSM Module, GPS Module |
+| **Software** | Arduino IDE, Embedded C |
 | **Communication** | GSM, WiFi, GPS |
 | **Alerts** | SMS, IoT Dashboards (Thingspeak / Blynk optional) |
 
@@ -35,9 +34,9 @@ This project demonstrates **hardware + software integration** for real-time safe
 ## 🚀 Getting Started
 
 ### 🔹 Hardware Requirements
-- IoT Sensors: **Tilt / Vibration / Impact**  
-- Microcontroller: **Arduino / ESP32 / Raspberry Pi**  
-- Communication Module: **GSM / WiFi**  
+- IoT Sensors: ** Gyroscopic Sensor / Smoke Sensor**  
+- Microcontroller: **Arduino UNO**  
+- Communication Module: **GSM / Bluetooth**  
 - GPS Module (for live location)  
 - Power Supply (Battery Pack / USB)  
 
@@ -46,24 +45,24 @@ This project demonstrates **hardware + software integration** for real-time safe
 - **Embedded C** (for sensor data processing)  
 - **Git** (for version control)  
 
-###⚡ How It Works
+⚡ How It Works
 1️⃣ Sensors continuously monitor the vehicle’s motion.
 2️⃣ On abnormal tilt/impact → accident detected ⚠️
 3️⃣ GPS fetches the real-time location 🌍
 4️⃣ GSM/WiFi module sends alert message to emergency contacts 📩
 5️⃣ (Optional) Logs data to IoT dashboard for tracking 📊
 
-###📊 Applications
+📊 Applications
 🏍️ Motorcycle accident detection
 🚗 Vehicle emergency alert system
 ⛑️ Faster response in road accidents
 🏥 Integration with emergency medical services
 
-###🤝 Contributing
+🤝 Contributing
 Contributions are welcome! 🎉
 If you’d like to improve this project, feel free to fork the repo, make enhancements, and create a pull request.
 
-###📜 License
+📜 License
 📌 This project is licensed under the MIT License – free to use, modify, and distribute.
 
 ###💡 Future Enhancements
